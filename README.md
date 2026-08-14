@@ -6,7 +6,7 @@
 
 * This is for my unreal engine project. This is a test of my first time using GitHub.
 
-
+When opening the project, click on the "MainMenu" level first.
 
 \# References:
 
@@ -14,17 +14,11 @@ https://towball.itch.io/retro-sci-fi?download (Sfx)
 
 
 
-Matthew Wilder - Break My Stride (Background Music)
+Matthew Wilder - Break My Stride (Winning Music)
+Other Music - NOT SFX - is made by me.
 
 
 
-\# What I hope to do in the final game:
-
-(Used as dot points for presentation and for future reference)
-
-* Add a dodging mechanic (Fast roll to the side. Spacebar + Direction of movement)
-* Increase enemies unpredictability, add boss opponents.
-* Make bullets shoot in spurts of 3 instead of constant.
 
 
 
@@ -34,11 +28,4 @@ Matthew Wilder - Break My Stride (Background Music)
 * Freer camera movement. (Added RotateUpDown, allowing Y-Axis mouse movement)
 * Made walls around the area, changed original panning material to be emissive so you can still see.
 * Used helicopter instead of flying.
-
-
-
-\# Bugs
-
-* Player and enemies still go through walls, even after adjusting the collisions.
-* Projectiles and health bars are 2 dimensional, so they are invisible from certain angles.
 
