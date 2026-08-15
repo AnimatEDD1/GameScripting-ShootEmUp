@@ -18,14 +18,8 @@ Matthew Wilder - Break My Stride (Winning Music)
 Other Music - NOT SFX - is made by me.
 
 
+Commentary:
+https://youtu.be/Rx6zkQkfhks
 
-
-
-
-\# Things I did different:
-
-* 3D gameplay, all enemies are homing but with various rates of fire and speeds.
-* Freer camera movement. (Added RotateUpDown, allowing Y-Axis mouse movement)
-* Made walls around the area, changed original panning material to be emissive so you can still see.
-* Used helicopter instead of flying.
-
+Raw Gameplay:
+https://youtu.be/reUUt7z63FQ
